@@ -1,6 +1,8 @@
 # AaplaDabbawala
-It is a platform where users can easily subscribe to meal services from their local dabbawalas.
-Users  will register, pick subscription plans according to their convenience, and our trusted dabbawalas independently deliver the meals.
+- It is a platform where users can easily subscribe to meal services from their local dabbawalas.
+- Users  will register, pick subscription plans according to their convenience, and our trusted dabbawalas independently deliver the meals.
+# Demo Video
+https://youtu.be/nCjR3uLP96U
 
 Explore the website's UI to get a feel for its design and functionality.
 
